@@ -1,3 +1,4 @@
-hddsnbbbjne
-cnnfrjhsnncnd
-dcddbdfejn
+
+Cyclic Sort:
+
+When given numbers from range 1 to N Use Cycli sort
