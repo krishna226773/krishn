@@ -2,3 +2,21 @@
 Cyclic Sort:
 
 When given numbers from range 1 to N Use Cycli sort
+
+In 1 to N range the value is equal to value-1 index position of the array.
+In 0 to N range the value is equal to value index position of the array.
+
+String pool is memory that is placed in heap memory(Why String pool? memory optimization).
+
+String immutability, because of immutability security is increased.(Example: four persons having same name if one person changes his name and for the rest the names do not change).
+
+== checks values and both reference variables pointing to same value.
+
+.equals method checks only value is equal or not.
+
+If you want print object the object will convert toString and print it.
+
+StringBuilder class will not create object if you modify that object.
+
+
+
