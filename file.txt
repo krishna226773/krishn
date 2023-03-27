@@ -19,8 +19,7 @@ If you want print object the object will convert toString and print it.
 StringBuilder class will not create object if you modify that object.
 
 RECURSION:
-          Function calling another function 
-          Body of the function is same.
+          Function calling itself 
           
 All the function calls goes to stack memory
 
@@ -34,6 +33,15 @@ Base condition in Recursion:
 No Base condition: 
                   Function calling keeps happening.
                   At certain point memory of computer will exceed limit ==> stack Overflow error.
+                  
+Why Recursion:
+              It helps in solving bigger and complex problems in a simple way.
+              
+              WE can convert recursion solution into iteration and viceversa.
+              
+              Space complexity is not constant becuase of recursive calls.
+              
+              It helps in breaking down bigger problems into smaller problems.
                          
                          
 
