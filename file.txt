@@ -18,5 +18,20 @@ If you want print object the object will convert toString and print it.
 
 StringBuilder class will not create object if you modify that object.
 
+RECURSION:
+          Function calling another function 
+          Body of the function is same.
+          
+All the function calls goes to stack memory
+
+While the function is not finished executing it will remain in Stack memory.
+
+When a function finishes executing it is removed from the stack, and the flow of program is restored to where that function was called.
+
+Base condition in Recursion:
+                         Condition where our recursion will stop making new calling
+                         
+                         
+
 
 
