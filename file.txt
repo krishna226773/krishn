@@ -29,7 +29,11 @@ While the function is not finished executing it will remain in Stack memory.
 When a function finishes executing it is removed from the stack, and the flow of program is restored to where that function was called.
 
 Base condition in Recursion:
-                         Condition where our recursion will stop making new calling
+                         Condition where our recursion will stop making new calling to function.
+                         
+No Base condition: 
+                  Function calling keeps happening.
+                  At certain point memory of computer will exceed limit ==> stack Overflow error.
                          
                          
 
