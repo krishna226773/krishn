@@ -42,6 +42,10 @@ Why Recursion:
               Space complexity is not constant becuase of recursive calls.
               
               It helps in breaking down bigger problems into smaller problems.
+              
+Fibonacci numbers are the numbers that are obtained by adding previous two numbers.
+
+Tail recursion is the last function that is executed after that nothing will remain to execute.
                          
                          
 
