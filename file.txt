@@ -91,6 +91,22 @@ How to solve recursive?
      
  O(1) < O(logN) < O(N) < O(2 power N)     
    
+   
+BIG O Notation
+
+O(N power 3) upper bound
+That means algorthim that we have written will not lead to (N power 3) graph for time grows as size of the array grows.
+
+limit               f(N)
+    N -> infinity   ----- < infinity
+                     g(N)
+                     
+ Omega(N power 3) lower bound.
+ 
+ Theta Notation:
+               combining both upper bound and lower bound
+   
+   
                          
                          
 
