@@ -59,6 +59,38 @@ How to solve recursive?
    See the flow of functions, how they are getting into stack.
    
    Identify and focus left tree calls and right tree calls.
+   
+   
+ Wokring with variables in ther recursion:
+ 
+ Arguments ==> what are the variables that are useful in the future calls put them in the arguments.
+ Return type
+ Body of the function ==> Variables that are specific to that function call will be do in the body of the function.
+ 
+                
+  Types of recursion relations:
+  
+     Linear type recursion relation.
+     Divide and Conquer type recursion relation(reduced by a factor).
+     
+ Time complexity:
+                Time complexity is not equal to time taken by algorithm.
+                It is a function that tells us how the time is growing when the input data is growing
+     
+     
+ What do we consider when thinking about time complexity?
+ 
+     Always look for worst case complexity.
+     Always look at complexity for large infinite data
+     
+     Eventhough the two actual values is diff but they are growing linearily
+     We don't care about the actual time.
+     We ignore constants
+     
+     Always ignore less dominating terms
+     
+ O(1) < O(logN) < O(N) < O(2 power N)     
+   
                          
                          
 
