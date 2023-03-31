@@ -46,6 +46,19 @@ Why Recursion:
 Fibonacci numbers are the numbers that are obtained by adding previous two numbers.
 
 Tail recursion is the last function that is executed after that nothing will remain to execute.
+
+
+How to solve recursive?
+
+   Identify if you can break down your problem into smaller problems
+   
+   Write the recursive relation if needed.
+   
+   Draw the recursive tree.
+   
+   See the flow of functions, how they are getting into stack.
+   
+   Identify and focus left tree calls and right tree calls.
                          
                          
 
